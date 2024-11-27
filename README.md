@@ -10,7 +10,7 @@ This is a simple C++ command-line tool to help you track your daily goals and bu
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/yourusername/goal-tracker.git
+git clone https://github.com/nushratriya/goal-tracker.git
 
 2. Navigate to the project directory:
 cd goal-tracker
