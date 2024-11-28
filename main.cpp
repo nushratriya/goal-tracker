@@ -51,6 +51,7 @@ void loadGoals() {
 
   if (!inFile) { 
     cout << "No previous goal data found. Start working towards your goals today!" << endl; 
+    cout << endl;
     return; 
   }
 
